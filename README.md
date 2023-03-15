@@ -3,6 +3,11 @@
 Excel is one of the most used skills in the data world. 
 In this project work, we will be learning the most important topics of MS Excel as Data Analysts.
 
+*Formulas in Excel*
+
+Formula Excel Template1.xlsx
+Most useful formulas in Excel.
+
 
 *Pivot Tables in Excel*
 
